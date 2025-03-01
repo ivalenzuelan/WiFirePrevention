@@ -121,7 +121,7 @@ Usage
 
 Run the following command on a WiFi-enabled device:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   sudo python node.py -i wlan0 -s http://your-server-ip:5000   `
+` sudo python node.py -i wlan0 -s http://your-server-ip:5000  `
 
 Replace wlan0 with your WiFi interface and your-server-ip with the Flask server address.
 
@@ -129,7 +129,7 @@ Replace wlan0 with your WiFi interface and your-server-ip with the Flask server 
 
 Run this command on the central server:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   python server.py   `
+`   python server.py   `
 
 The server will listen for incoming data from nodes and process device locations.
 
