@@ -107,7 +107,7 @@ Ensure you have the following installed:
 
 ### Setting Up
 
-1.  git clone https://github.com/your-repo/wifi-tracking.gitcd wifi-tracking
+1.  git clone https://github.com/ivalenzuelan/WiFirePrevention
     
 2.  python3 -m venv venvsource venv/bin/activate # On Windows: venv\\Scripts\\activate
     
