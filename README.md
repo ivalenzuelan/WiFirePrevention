@@ -137,7 +137,7 @@ The server will listen for incoming data from nodes and process device locations
 
 Launch the Flask web app:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   python dashboard.py   `
+`   python dashboard.py   `
 
 Then, open http://127.0.0.1:5000 in your browser to view real-time tracking data.
 
